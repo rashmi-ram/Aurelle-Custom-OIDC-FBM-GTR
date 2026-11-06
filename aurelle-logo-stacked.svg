@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="380" viewBox="0 0 480 380">
+<rect width="480" height="380" fill="#f6f0fd"/>
+<g transform="translate(130 10)"><defs>
+  <linearGradient id="p" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#eaa6c0"/><stop offset="1" stop-color="#cf5580"/></linearGradient>
+  <linearGradient id="v" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#bfaaf8"/><stop offset="1" stop-color="#7240dc"/></linearGradient>
+</defs>
+<g transform="translate(34 14) rotate(-8 50 65)"><path d="M0 122 Q0 130 8 130 L92 130 Q100 130 100 122 L100 50 A50 50 0 0 0 0 50 Z" fill="url(#p)"/></g>
+<g transform="translate(98 48) rotate(7 42 55)"><path d="M0 98 Q0 106 8 106 L76 106 Q84 106 84 98 L84 42 A42 42 0 0 0 0 42 Z" fill="url(#v)"/></g>
+<circle cx="44" cy="150" r="27" fill="#f9d37a"/></g>
+<text x="240" y="300" text-anchor="middle" font-family="Georgia, 'Playfair Display', 'Times New Roman', serif" font-size="96" font-weight="700" letter-spacing="-3" fill="#1f1b24">Aurelle</text>
+<text x="240" y="345" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="16" letter-spacing="6" fill="#6b6672">FASHION · STYLE · YOU</text>
+</svg>
